@@ -1,1 +1,1 @@
-![Dashboard Overview](screenshot.jpg)
+![Dashboard Overview](Screenshot.jpg)
