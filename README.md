@@ -14,7 +14,7 @@ This project focuses on enhancing fraud detection and customer segmentation stra
 
     Advanced Analysis:
         Identification of fraudulent transaction patterns.
-        Segmentation of customers based on behavior and demographics.
+        Segmentation of customers based on behaviour and demographics.
 
     Interactive Dashboard:
         Incorporation of PivotTables, PivotCharts, and slicers for data exploration.
